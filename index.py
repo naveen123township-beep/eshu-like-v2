@@ -1,4 +1,0 @@
-# STAR LIKE API SRC  
-# POWERED BY : @STAR_GMR
-# CHANNEL : @STAR_METHODE
-from wsgi import app
